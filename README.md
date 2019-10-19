@@ -1,3 +1,3 @@
 # test PR and sugesstions
 
-1) Dies ist der Original Satz. Ich würde diesen so ändern. Und dann eine neue sugestion
+1) Dies ist der Original Satz. Ich würde diesen so ändern. nee liber so
