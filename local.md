@@ -1,3 +1,3 @@
 # new file
 
-This is new text local for PR
+This is new text
